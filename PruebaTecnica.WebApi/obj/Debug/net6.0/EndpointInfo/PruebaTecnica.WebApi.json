@@ -1,0 +1,55 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "PruebaTecnica.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/CatFact/fact": {
+      "get": {
+        "tags": [
+          "CatFact"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Gif/todos": {
+      "get": {
+        "tags": [
+          "Gif"
+        ],
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Historial/historial": {
+      "get": {
+        "tags": [
+          "Historial"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

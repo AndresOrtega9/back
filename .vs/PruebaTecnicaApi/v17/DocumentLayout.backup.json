@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|solutionrelative:pruebatecnica.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|solutionrelative:pruebatecnica.webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\services\\gifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\services\\gifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|solutionrelative:pruebatecnica.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\dtos\\catfactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\dtos\\catfactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\dtos\\giphydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\dtos\\giphydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\pruebatecnica.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\pruebatecnica.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\repositories\\historialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\repositories\\historialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA3B78B-4BD0-47D1-81AD-143002EFEB6A}|PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj|solutionrelative:pruebatecnica.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF3A3F6-D035-4E04-88B6-56090AA6574F}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.domain\\entities\\historialbusqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF3A3F6-D035-4E04-88B6-56090AA6574F}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|solutionrelative:pruebatecnica.domain\\entities\\historialbusqueda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA988318-CE98-49F1-9162-C1E4383E4BA9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.application\\interfaces\\ihistorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA988318-CE98-49F1-9162-C1E4383E4BA9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|solutionrelative:pruebatecnica.application\\interfaces\\ihistorialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA988318-CE98-49F1-9162-C1E4383E4BA9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.application\\interfaces\\igifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA988318-CE98-49F1-9162-C1E4383E4BA9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|solutionrelative:pruebatecnica.application\\interfaces\\igifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA988318-CE98-49F1-9162-C1E4383E4BA9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.application\\interfaces\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA988318-CE98-49F1-9162-C1E4383E4BA9}|PruebaTecnica.Application\\PruebaTecnica.Application.csproj|solutionrelative:pruebatecnica.application\\interfaces\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|c:\\users\\vanes\\music\\prueba\\pruebatecnicaapi\\pruebatecnica.webapi\\pruebatecnica.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23F52DA7-8C32-44C3-85ED-AEF95C01AA11}|PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj|solutionrelative:pruebatecnica.webapi\\pruebatecnica.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatFactDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\DTOs\\CatFactDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\DTOs\\CatFactDTO.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\DTOs\\CatFactDTO.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\DTOs\\CatFactDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:33:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Services\\CatFactService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\Services\\CatFactService.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Services\\CatFactService.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\Services\\CatFactService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T05:09:17.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GifService.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Services\\GifService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\Services\\GifService.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Services\\GifService.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\Services\\GifService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T06:25:53.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.WebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PruebaTecnica.WebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:47:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica.WebApi\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T02:35:40.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T19:29:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiphyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\DTOs\\GiphyDTO.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\DTOs\\GiphyDTO.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\DTOs\\GiphyDTO.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\DTOs\\GiphyDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:34:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PruebaTecnica.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T06:23:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Repositories\\HistorialRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\Repositories\\HistorialRepository.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Repositories\\HistorialRepository.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\Repositories\\HistorialRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:34:56.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaTecnica.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T23:15:25.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HistorialBusqueda.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Domain\\Entities\\HistorialBusqueda.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Entities\\HistorialBusqueda.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Domain\\Entities\\HistorialBusqueda.cs",
+              "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\HistorialBusqueda.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:14:36.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHistorialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Application\\Interfaces\\IHistorialRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Application\\Interfaces\\IHistorialRepository.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Application\\Interfaces\\IHistorialRepository.cs",
+              "RelativeToolTip": "PruebaTecnica.Application\\Interfaces\\IHistorialRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:18:14.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGifService.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Application\\Interfaces\\IGifService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Application\\Interfaces\\IGifService.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Application\\Interfaces\\IGifService.cs",
+              "RelativeToolTip": "PruebaTecnica.Application\\Interfaces\\IGifService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:09:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Application\\Interfaces\\ICatFactService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Application\\Interfaces\\ICatFactService.cs",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.Application\\Interfaces\\ICatFactService.cs",
+              "RelativeToolTip": "PruebaTecnica.Application\\Interfaces\\ICatFactService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:09:45.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PruebaTecnica.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj",
+              "ToolTip": "C:\\Users\\vanes\\Music\\prueba\\PruebaTecnicaApi\\PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj",
+              "RelativeToolTip": "PruebaTecnica.WebApi\\PruebaTecnica.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T03:37:38.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

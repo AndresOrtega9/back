@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "PruebaTecnica.WebApi.Controllers.HomeController",
+    "Method": "GestionarBusquedaGifConFactExistente",
+    "RelativePath": "api/home/gif-fact-existente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fact",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnica.WebApi.Controllers.HomeController",
+    "Method": "GestionarBusquedaGifConDatoAleatorio",
+    "RelativePath": "api/home/gif-fact-nuevo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnica.WebApi.Controllers.HomeController",
+    "Method": "ObteterHistorial",
+    "RelativePath": "api/home/historial",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PruebaTecnica.Domain.Entities.HistorialBusqueda, PruebaTecnica.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
